@@ -74,7 +74,7 @@ src
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/gov-data-api.git
+git clone https://github.com/Andr3Dav1d/gov-data-api.git
 ````
 
 ### 2️⃣ Entrar na pasta
